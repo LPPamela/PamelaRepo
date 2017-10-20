@@ -4,6 +4,10 @@ Welcome to CAPS Markdown Editor!
 
 CAPS is using GitHub Flavored Markdown(GFM) which is one of the most popular Markdown flavor. Lets' learn how to make your customized document with below rules.  
 
+> ![I am flower](./../Images/flower.jpg "This is title")
+
+![Flower](./../Images/Flower.jpg "This is A/t text")
+
 *View the [Markdown Basics](https://help.github.com/articles/markdown-basics/)*<br/>
 *View the [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)*<br/>
 *View the [Online sample](http://github.github.com/github-flavored-markdown/sample_content.html).*<br/>

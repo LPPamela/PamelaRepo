@@ -123,6 +123,10 @@ Content Cell  | Content Cell
 
 You can also include inline Markdown format syntax such as links, bold, italics, or strike through:
 
+> ![I am flower](./../Images/flower.jpg "This is title")
+
+![Flower](./../Images/Flower.jpg "This is A/t text")
+
 | Name | Description          |
 | ------------- | ----------- |
 | Help      | ~~Display the~~ help window.|
